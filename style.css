@@ -1,4 +1,7 @@
 .fondo{background-image: url(./fondo.jpg);}
 .fondo{background-position: center;}
 .fondo{background-size: cover;}
-
+.fondo{border-radius: 1rem;}
+.texto1{color:brown}
+.texto2{color:coral}
+.texto3{color:darkslateblue}
