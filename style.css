@@ -1,9 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Indie+Flower&display=swap');
 .fondo{background-image: url(./fondo.jpg);}
 .fondo{background-position: center;}
 .fondo{background-size: cover;}
 .fondo{border-radius: 1rem;}
+.fondo{font-family: 'Indie Flower'}
 .texto1{color:brown}
 .texto2{color:coral}
 .texto3{color:darkslateblue}
 .textolargo{color:darkviolet;}
 .textolargo2{color:deeppink;}
+
+
+
