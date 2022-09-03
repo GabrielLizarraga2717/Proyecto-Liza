@@ -1,14 +1,12 @@
-@import url('https://fonts.googleapis.com/css2?family=Indie+Flower&display=swap');
-.fondo{background-image: url(./fondo.jpg);}
+@import url('https://fonts.googleapis.com/css2?family=Comic+Neue:ital,wght@1,700&display=swap');
+.fondo{background-image: url(./z_gradient_2_03.jpg);}
 .fondo{background-position: center;}
-.fondo{background-size: cover;}
+.fondo{background-size:cover;}
 .fondo{border-radius: 1rem;}
-.fondo{font-family: 'Indie Flower'}
-.texto1{color:brown}
-.texto2{color:coral}
-.texto3{color:darkslateblue}
-.textolargo{color:darkviolet;}
-.textolargo2{color:deeppink;}
-
-
-
+.fondo{font-family: 'Comic Neue', cursive;}
+.texto1{color:white}
+.texto2{color:black}
+.texto3{color:white}
+.textolargo{color:black}
+.textolargo2{color:white}
+.textolargo3{color:black}
